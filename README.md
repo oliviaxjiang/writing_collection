@@ -13,7 +13,7 @@ Here are the instructions for getting started with the chemiSOLO project:
    - Select the `chemiSOLO` folder where you cloned the repository and open it.
 
 3. **Install Node.js:**
-   - Install Node.js on your computer if it's not already installed. The project requires Node version 17. You can download it from [Node.js official website](https://nodejs.org/).
+   - Install Node.js on your computer if it's not already installed. The project may not allow the newest Node version. I use Node version 17 and it works fine. You can download it from [Node.js official website](https://nodejs.org/).
 
 4. **Install Dependencies and Run Linting:**
    - Open the terminal in Visual Studio Code.
@@ -42,5 +42,3 @@ Here are the instructions for getting started with the chemiSOLO project:
      ...mapState({showloading: state => false}),
      ```
    - This modification prevents the page from indefinitely waiting for a device connection.
-
-After these steps, your project should be up and running locally with the specified modifications. If you encounter any issues, refer to the project documentation or reach out to the project maintainers.
