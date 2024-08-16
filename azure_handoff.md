@@ -1,6 +1,6 @@
 # Introduction
 
-In the chemiSOLO project, I implemented four main components: the Nav Bar, Home Screen, Imaging Parameters, and Gallery. Below, I provide a detailed explanation of each implementation. My focus was primarily on the frontend, with limited time spent on backend integration.
+In the chemiSOLO project, I implemented four main components: the Nav Bar, Home Screen, Imaging Parameters, and Gallery. Below, I provide a detailed explanation of each implementation. My focus was primarily on the frontend, with limited time spent on backend integration. All of my changes are located in the branch Olivia-Progress.
 
 ## Pre-Implementation
 To prevent my local server from being stuck in an infinite loading loop, I commented out certain code sections (refer to section 6 in the [onboarding information](https://github.com/oliviaxjiang/azurebiosystems_chemiSOLO-onboarding) for details).
